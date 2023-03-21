@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\varapaka\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\varapaka\\.nuget\\packages"
+    ]
+  }
+}
